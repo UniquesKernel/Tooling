@@ -9,7 +9,7 @@ import Control.Monad (mapM_)
 -- GLOBAL VARIABLES
 
 projectRoot :: String
-projectRoot = "/home/mokri/git/cloud/root"
+projectRoot = "project/root/path"
 
 -- HELPER FUNCTIONS
 
